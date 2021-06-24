@@ -50,6 +50,8 @@ swift
 
 This app converts values between degrees Fahrenheit and degrees Celsius.
 
+![116005411-661cb180-a5cc-11eb-801d-c01bf858c417](https://user-images.githubusercontent.com/24994818/123332620-58b97000-d506-11eb-8bf9-ef9b69e6e307.gif)
+
 1. [x] [1. View Basics](https://github.com/c4arl0s/3ViewsAndTheViewHierarchy#1-view-basics)
 2. [x] [2. The View Hierarchy](https://github.com/c4arl0s/3ViewsAndTheViewHierarchy#2-the-view-hierarchy)
 3. [x] [3. Creating a New Project](https://github.com/c4arl0s/3ViewsAndTheViewHierarchy#3-creating-a-new-project)
@@ -148,6 +150,10 @@ This app converts values between degrees Fahrenheit and degrees Celsius.
 # [10. UITableView And UITableViewController](https://github.com/c4arl0s/10UITableViewAndUITableViewController#10-uitableview-and-uitableviewcontroller)
 
 ### [Homepwner App](https://github.com/c4arl0s/10UITableViewAndUITableViewController#1-beginning-the-homepwner-application)
+
+It keeps an inventory of all your possessions. Now you will have a record for your insurance company. It will record the name, serial number, and a picture of any of your possessions.
+
+![104794469-5a1f8900-576d-11eb-9313-baf10002ec79](https://user-images.githubusercontent.com/24994818/123331827-602c4980-d505-11eb-93a0-3739dce1f20c.gif)
 
 1. [x] [1. Beginning the Homepwner Application](https://github.com/c4arl0s/10UITableViewAndUITableViewController#1-beginning-the-homepwner-application)
 2. [x] [2. UITableViewController](https://github.com/c4arl0s/10UITableViewAndUITableViewController#2-uitableviewcontroller)
@@ -268,6 +274,8 @@ This app converts values between degrees Fahrenheit and degrees Celsius.
 
 An app that lets the user draw by touching the screen
 
+![106779329-7f851180-660c-11eb-90b1-a1f8cc7d9534](https://user-images.githubusercontent.com/24994818/123332820-a0d89280-d506-11eb-81e5-7397a7c60f2c.gif)
+
 1. [x] [1. Touch Events](https://github.com/c4arl0s/18TouchEventsAndUIResponder#1-touch-events)
     - [x] [Life Cycle of a Touch](https://github.com/c4arl0s/18TouchEventsAndUIResponder#life-cycle-of-a-touch)
     - [x] [Conclusion about how touch objects work:](https://github.com/c4arl0s/18TouchEventsAndUIResponder#conclusion-about-how-touch-objects-work)
@@ -315,6 +323,8 @@ An app that lets the user draw by touching the screen
 ### [Photorama App](https://github.com/c4arl0s/20WebServices_PhotoramaApp#1-starting-the-photorama-application)
 
 Photorama App make a web service request to get interesting photos from Flickr. The web service is hosted at https://api.flickr.com/services/rest. The data that is returned will be JSON that describes the photos.
+
+![114577958-1809c480-9c42-11eb-9a4d-8641c09c4fc1](https://user-images.githubusercontent.com/24994818/123330695-f65f7000-d503-11eb-80df-490cda0342c8.gif)
 
 1. [x] [Starting the Photorama Application](https://github.com/c4arl0s/20WebServices_PhotoramaApp#1-starting-the-photorama-application)
 2. [x] [Building the URL](https://github.com/c4arl0s/20WebServices_PhotoramaApp#2-building-the-url)
