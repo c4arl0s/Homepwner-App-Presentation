@@ -50,7 +50,9 @@ swift
 
 This app converts values between degrees Fahrenheit and degrees Celsius.
 
-![116005411-661cb180-a5cc-11eb-801d-c01bf858c417](https://user-images.githubusercontent.com/24994818/123332620-58b97000-d506-11eb-8bf9-ef9b69e6e307.gif)
+| Notes                                                                                                                         | Code                                                                                                                          | Diagrams                                                                                                                      | xcodeproj                                                                                                                     |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124359259-c8f08180-dbe9-11eb-99ca-1e8316c27013.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124359345-2a185500-dbea-11eb-99f3-7623e2254034.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124359439-9b580800-dbea-11eb-9d69-9052e424662f.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124359494-f0941980-dbea-11eb-8172-724300133958.gif" width="250"> |
 
 1. [x] [1. View Basics](https://github.com/c4arl0s/3ViewsAndTheViewHierarchy#1-view-basics)
 2. [x] [2. The View Hierarchy](https://github.com/c4arl0s/3ViewsAndTheViewHierarchy#2-the-view-hierarchy)
