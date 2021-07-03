@@ -151,9 +151,11 @@ This app converts values between degrees Fahrenheit and degrees Celsius.
 
 ### [Homepwner App](https://github.com/c4arl0s/10UITableViewAndUITableViewController#1-beginning-the-homepwner-application)
 
-It keeps an inventory of all your possessions. Now you will have a record for your insurance company. It will record the name, serial number, and a picture of any of your possessions.
+It keeps an inventory of all your possessions. It records name, serial number, value and a picture of your possession.
 
-![104794469-5a1f8900-576d-11eb-9313-baf10002ec79](https://user-images.githubusercontent.com/24994818/123331827-602c4980-d505-11eb-93a0-3739dce1f20c.gif)
+| Notes                                                                                                                         | Code                                                                                                                          | Diagrams                                                                                                                      | xproj                                                                                                                         |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124358080-40bbad80-dbe4-11eb-9d9c-7672b6873872.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124358136-87a9a300-dbe4-11eb-8af2-cddb3a4e044f.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124358241-056dae80-dbe5-11eb-99db-21e1887b5d95.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124358305-541b4880-dbe5-11eb-9718-b6ed2e58c1d6.gif" width="250"> |
 
 1. [x] [1. Beginning the Homepwner Application](https://github.com/c4arl0s/10UITableViewAndUITableViewController#1-beginning-the-homepwner-application)
 2. [x] [2. UITableViewController](https://github.com/c4arl0s/10UITableViewAndUITableViewController#2-uitableviewcontroller)
