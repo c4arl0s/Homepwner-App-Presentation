@@ -278,7 +278,9 @@ It keeps an inventory of all your possessions. It records name, serial number, v
 
 An app that lets the user draw by touching the screen
 
-![106779329-7f851180-660c-11eb-90b1-a1f8cc7d9534](https://user-images.githubusercontent.com/24994818/123332820-a0d89280-d506-11eb-81e5-7397a7c60f2c.gif)
+| Notes                                                                                                                         | Code                                                                                                                          | Diagrams                                                                                                                      | xcodeproj                                                                                                                     |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124359838-4c12d700-dbec-11eb-9186-2f50b586230c.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124359793-1a9a0b80-dbec-11eb-951d-54d87dfef74d.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124359917-9431f980-dbec-11eb-81c9-2d30f6857158.jpg" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124359956-bdeb2080-dbec-11eb-8a08-5ece008c8e0e.gif" width="250"> |
 
 1. [x] [1. Touch Events](https://github.com/c4arl0s/18TouchEventsAndUIResponder#1-touch-events)
     - [x] [Life Cycle of a Touch](https://github.com/c4arl0s/18TouchEventsAndUIResponder#life-cycle-of-a-touch)
