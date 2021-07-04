@@ -1,7 +1,11 @@
 # [go back to Short Content Index](https://github.com/c4arl0s/iOSProgramming_BasicSwift#iosprogramming_basicswift)
 
 # [1 A Simple iOS Application](https://github.com/c4arl0s/1aSimple_iOS_Application#1-a-simple-ios-application)
-swift
+
+| At a glance: Notes                                                                                                           |                                                                                                                              |                                                                                                                               |                                                                                                                              |
+|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/72632098-2d971e00-391b-11ea-8afa-48c498f4db00.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/72464731-7627cd80-379b-11ea-8d7c-c2f47275584d.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/110651361-fd46ba80-8180-11eb-9b94-aa238b89eb94.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/72634517-5a99ff80-3920-11ea-8bd9-4dc32a5cd1e7.gif" width="250"> |
+
 1. [x] [1. Creating an Xcode Project](https://github.com/c4arl0s/1aSimple_iOS_Application#1-creating-an-xcode-project)
 2. [x] [2. Model View Controller](https://github.com/c4arl0s/1aSimple_iOS_Application#2-model-view-controller)
     - [x] [Designing The Quiz](https://github.com/c4arl0s/1aSimple_iOS_Application#--designing-the-quiz)
@@ -26,6 +30,10 @@ swift
 21. [x] [21. App Execution](https://github.com/c4arl0s/1aSimple_iOS_Application#21-app-execution)
 
 # [2. The Swift Language](https://github.com/c4arl0s/2TheSwiftLanguage#-2-the-swift-language)
+
+| At a glance: Notes                                                                                                            |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124385506-93a46c00-dc9b-11eb-80c1-5cdcb24055a7.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124385548-c8b0be80-dc9b-11eb-8c39-39ebe86b4485.png" width="250"> |
 
 1. [x] [1. Types in Swift](https://github.com/c4arl0s/2TheSwiftLanguage#1-types-in-swift)
 2. [x] [2. Using Standard Types](https://github.com/c4arl0s/2TheSwiftLanguage#2-using-standard-types)
@@ -70,6 +78,10 @@ This app converts values between degrees Fahrenheit and degrees Celsius.
 
 # [4. Text Input And Delegation](https://github.com/c4arl0s/4TextInputAndDelegation#4-text-input-and-delegation)
 
+| At a glance: Notes                                                                                                            |                                                                                                                              |                                                                                                                              |                                                                                                                              |
+|-------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/115494772-ea1d1500-a22b-11eb-9a47-eb890e9f9e46.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/75098331-4e860b00-557a-11ea-918c-0d3404ccc630.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/75100101-1806bb00-558f-11ea-8d3e-ee9fdb99fa03.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/75103833-2a501b80-55c6-11ea-89d3-1f13bcb816cd.gif" width="250"> |
+
 1. [x] [1. Text Editing](https://github.com/c4arl0s/4TextInputAndDelegation#1-text-editing)
 2. [x] [2. Keyboard attributes](https://github.com/c4arl0s/4TextInputAndDelegation#2-keyboard-attributes)
 3. [x] [3. Responding to text field changes](https://github.com/c4arl0s/4TextInputAndDelegation#3-responding-to-text-field-changes)
@@ -84,6 +96,10 @@ This app converts values between degrees Fahrenheit and degrees Celsius.
 
 # [5. ViewControllers](https://github.com/c4arl0s/5ViewControllers/blob/master/README.md#5-viewcontrollers)
 
+| At a glance: Notes                                                                                                           |                                                                                                                              |                                                                                                                              |                                                                                                                               |
+|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/75130746-9057a400-5695-11ea-8c71-f0b7306ad1ab.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/75131246-b0886280-5697-11ea-9fdf-162be1791b35.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/75176016-ff1a1900-56f8-11ea-8a50-66879869ba26.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/116130707-28ce2780-a691-11eb-9a04-15932c92f43e.png" width="250"> |
+
 1. [x] [1. The View of a View Controller](https://github.com/c4arl0s/5ViewControllers/blob/master/README.md#1-the-view-of-a-view-controller)
 2. [x] [2. Setting the Initial ViewController](https://github.com/c4arl0s/5ViewControllers/blob/master/README.md#2-setting-the-initial-viewcontroller)
 3. [x] [3. UITabBarController](https://github.com/c4arl0s/5ViewControllers#3-uitabbarcontroller)
@@ -97,6 +113,10 @@ This app converts values between degrees Fahrenheit and degrees Celsius.
 11. [x] [11. For the More Curious: Retina Display](https://github.com/c4arl0s/5ViewControllers#11-for-the-more-curious-retina-display)
 
 # [6. MapView Programmatic View](https://github.com/c4arl0s/6ProgrammaticViews/blob/master/README.md#mapview-programmatic-view)
+
+| At a glance: Notes                                                                                                           |                                                                                                                              |                                                                                                                               |                                                                                                                              |
+|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/75185211-4c9f8180-570b-11ea-912a-db0622fed300.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/75193597-2afac600-571c-11ea-8ba6-2627e5d2442d.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/116160346-7bbad580-a6b7-11eb-881d-61afdfb7e834.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/75198365-060b5080-5726-11ea-9073-0ab1e06dd52a.png" width="250"> |
 
 1. [x] [1. Creating a View Programmaticallu](https://github.com/c4arl0s/6ProgrammaticViews_MapView/blob/master/README.md#1-creating-a-view-programmatically)
 2. [x] [2. Programmatic Constraints](https://github.com/c4arl0s/6ProgrammaticViews_MapView/blob/master/README.md#2-programmatic-constraints)
@@ -115,6 +135,10 @@ This app converts values between degrees Fahrenheit and degrees Celsius.
 
 ### [End of WorldTrotter App](https://github.com/c4arl0s/7Localization#internationalize-mapviewcontroller)
 
+| At a glance: Notes                                                                                                           |                                                                                                                               |                                                                                                                               |                                                                                                                               |
+|------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/75219094-7aafb080-5761-11ea-950a-f2d94080b7d2.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/105218254-872bbd00-5b1a-11eb-945a-8bf9126e5c11.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/105283146-7b211900-5b75-11eb-8e9d-23939dbaaf93.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/105284067-4c0ba700-5b77-11eb-903c-49d0db1ea54a.png" width="250"> |
+
 1. [x] [1. Internationalization](https://github.com/c4arl0s/7Localization#1-internationalization)
 2. [x] [2. Formatters](https://github.com/c4arl0s/7Localization#2-formatters)
 3. [x] [3. Base internationalization](https://github.com/c4arl0s/7Localization#3-base-internationalization)
@@ -127,6 +151,10 @@ This app converts values between degrees Fahrenheit and degrees Celsius.
 
 # [8. Controlling Animations](https://github.com/c4arl0s/8ControllingAnimations#8-controlling-animations)
 
+| At a glance: Notes                                                                                                            |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124395050-9ddc5f80-dcc7-11eb-82c4-51887ef5b4a9.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124394957-3faf7c80-dcc7-11eb-8c2e-f15b5d3ffd99.gif" width="250"> |
+
 1. [ ] [1. Basic animations](https://github.com/c4arl0s/8controllinganimations#1-Basic-animations)
 2. [ ] [2. Closures](https://github.com/c4arl0s/8controllinganimations#2-Closures)
     - [x] [deeper understanding of Closures](https://github.com/c4arl0s/8controllinganimations#Deeper-understanding-of-closures)
@@ -138,6 +166,10 @@ This app converts values between degrees Fahrenheit and degrees Celsius.
 8. [ ] [8. Silver Challenge: Layout Guides](https://github.com/c4arl0s/8controllinganimations#8-Silver-Challenge-Layout-Guides)
 
 # [9. Debugging](https://github.com/c4arl0s/9Debugging#9-debugging)
+
+| At a glance: Notes                                                                                                            |                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/124395162-2e1aa480-dcc8-11eb-996e-e5458737e37e.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/124395182-4b4f7300-dcc8-11eb-82a1-f3f6c825082a.png" width="250"> |
 
 1. [x] [1. A buggy project](https://github.com/c4arl0s/9Debugging#1-a-buggy-project)
 2. [x] [2. Debugging Basics](https://github.com/c4arl0s/9Debugging#2-debugging-basics)
@@ -179,6 +211,10 @@ It keeps an inventory of all your possessions. It records name, serial number, v
 
 # [11. Editing UITableView](https://github.com/c4arl0s/11EditingUITableView#11-editing-uitableview)
 
+| At a glance: Notes                                                                                                           |                                                                                                                              |                                                                                                                              |                                                                                                                              |
+|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/75001596-744ecb00-5427-11ea-80fc-2fc58d5f37dd.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/75002349-baa52980-5429-11ea-9ee0-eae9b82b21e4.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/75003226-be867b00-542c-11ea-88b7-b21b67f6755d.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/89260994-e9d3df80-d5f2-11ea-9477-764b7c809100.gif" width="250"> |
+
 1. [x] [1. Editing Mode](https://github.com/c4arl0s/11EditingUITableView#1-editing-mode)
 2. [x] [2. Adding Rows](https://github.com/c4arl0s/11EditingUITableView#2-adding-rows)
 3. [x] [3. Deleting Rows](https://github.com/c4arl0s/11EditingUITableView#3-deleting-rows)
@@ -191,6 +227,10 @@ It keeps an inventory of all your possessions. It records name, serial number, v
 
 # [12 Subclassing UITableViewCell From XIB](https://github.com/c4arl0s/12SubclassingUITableViewCellFromXIB#12-subclassing-uitableviewcell-from-xib)
 
+| At a glance: Notes                                                                                                           |                                                                                                                              |                                                                                                                              |                                                                                                                              |
+|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/88442544-8075f480-cdda-11ea-93bc-7775b501fa13.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/73474699-7fe13180-4354-11ea-8564-dfc257be5a3b.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/73499714-783a8080-4386-11ea-894a-e81bf6324e2a.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/89377851-4220e500-d6b8-11ea-94eb-0f9b4ad1f01e.png" width="250"> |
+
 1. [x] [1. Creating ItemCell](https://github.com/c4arl0s/12SubclassingUITableViewCellFromXIB#1-creating-itemcell)
 2. [x] [2. Exposing the Properties of ItemCell](https://github.com/c4arl0s/12SubclassingUITableViewCellFromXIB#2-exposing-the-properties-of-itemcell)
 3. [x] [3. Using ItemCell](https://github.com/c4arl0s/12SubclassingUITableViewCellFromXIB#3-using-itemcell)
@@ -201,6 +241,10 @@ It keeps an inventory of all your possessions. It records name, serial number, v
 8. [x] [8. Bronze Challenge: Cell Colors](https://github.com/c4arl0s/12SubclassingUITableViewCellFromXIB#8-bronze-challenge-cell-colors)
 
 # [13 Stack Views](https://github.com/c4arl0s/13StackViews#13-stack-views)
+
+| At a glance: Notes                                                                                                           |                                                                                                                              |                                                                                                                              |                                                                                                                              |
+|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/75044320-0a660e00-5487-11ea-8a82-f910d4b6fc76.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/75051953-671bf580-5494-11ea-9a66-6148e793deb1.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/75055555-dac10100-549a-11ea-8091-d6ee491349f2.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/75080347-5dfd4980-54d1-11ea-989c-1ecd5a8f908c.gif" width="250"> |
 
 1. [x] [1. Using UIStackView](https://github.com/c4arl0s/13StackViews#1-using-uistackview)
 2. [x] [2. Implicit Constraints](https://github.com/c4arl0s/13StackViews#2-implicit-constraints)
@@ -215,6 +259,10 @@ It keeps an inventory of all your possessions. It records name, serial number, v
 11. [x] [11. Bronze Challenge: More Stack Views](https://github.com/c4arl0s/13StackViews#11-bronze-challenge-more-stack-views)
 
 # [14. UINavigationController](https://github.com/c4arl0s/14UINavigationController#14-uinavigationcontroller)
+
+| At a glance: Notes                                                                                                           |                                                                                                                              |                                                                                                                              |                                                                                                                              |
+|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/87362420-3b2d0980-c534-11ea-8d88-e2e603f751fe.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/87362827-67955580-c535-11ea-9785-efa2f7d35a98.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/87363839-a3c9b580-c537-11ea-9c76-34124b96b10e.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/87800783-71100d80-c814-11ea-9315-b9de86d07152.gif" width="250"> |
 
 1. [x] [1. UINavigationController](https://github.com/c4arl0s/14UINavigationController#1-uinavigationcontroller)
 2. [x] [2. Navigating with UINavigationController](https://github.com/c4arl0s/14UINavigationController#2-navigating-with-uinavigationcontroller)
@@ -232,6 +280,10 @@ It keeps an inventory of all your possessions. It records name, serial number, v
 13. [x] [13. Solve the ItemCell.xib to display correct cell heigh](https://github.com/c4arl0s/14UINavigationController#13-solve-the-itemcellxib-to-display-correct-cell-heigh)
 
 # [15 Camera](https://github.com/c4arl0s/15Camera#15-camera)
+
+| At a glance: Notes                                                                                                           |                                                                                                                              |                                                                                                                              |                                                                                                                              |
+|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/89604422-db730700-d830-11ea-9483-f7e31dec6d7a.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/89605565-753bb380-d833-11ea-925e-881e16e6fd01.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/89606400-75d54980-d835-11ea-8452-51c060f22bba.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/90096302-8899c380-dcf8-11ea-80bc-329949fd55dc.gif" width="250"> |
 
 1. [x] [1. Displaying Images and UIImageView](https://github.com/c4arl0s/15Camera#1-displaying-images-and-uiimageview)
 2. [x] [2. Adding a camera button](https://github.com/c4arl0s/15Camera#2-adding-a-camera-button)
@@ -252,6 +304,10 @@ It keeps an inventory of all your possessions. It records name, serial number, v
 
 # [16. Saving Loading And Application States](https://github.com/c4arl0s/16SavingLoadingAndApplicationStates#16-saving-loading-and-application-states)
 
+| At a glance: Notes                                                                                                           |                                                                                                                              |                                                                                                                              |                                                                                                                              |
+|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/90361418-c6ae2480-e023-11ea-9523-64c379a85984.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/90361245-4daecd00-e023-11ea-93d0-6ed4e5edbed5.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/90813874-d3fe3400-e2ed-11ea-85bc-16504f8ea672.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/90919546-41709a00-e3ac-11ea-82fe-10e9deb277b8.png" width="250"> |
+
 1. [x] [1. Archiving](https://github.com/c4arl0s/16SavingLoadingAndApplicationStates#1-archiving)
 2. [x] [2. Application Sandbox](https://github.com/c4arl0s/16SavingLoadingAndApplicationStates#2-application-sandbox)
 3. [x] [3. Constructing a file URL](https://github.com/c4arl0s/16SavingLoadingAndApplicationStates#3-constructing-a-file-url)
@@ -266,6 +322,10 @@ It keeps an inventory of all your possessions. It records name, serial number, v
 12. [x] [12. For the More Curious: The Application Bundle](https://github.com/c4arl0s/16SavingLoadingAndApplicationStates#12-for-the-more-curious-the-application-bundle)
 
 # [17. Size Classes](https://github.com/c4arl0s/iOSProgrammingBasicSwiftContentIndex#17-size-classes---content)
+
+| At a glance: Notes                                                                                                           |                                                                                                                              |                                                                                                                              |                                                                                                                              |
+|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/91001628-daacd580-e591-11ea-88d0-b7006a3c3533.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/91001892-adacf280-e592-11ea-9960-e278e6228511.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/91004288-5fe7b880-e599-11ea-9780-af47af61af7f.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/91125803-38135600-e668-11ea-9201-1c07e81a7458.gif" width="250"> |
 
 1. [x] [1. Modifying Traits for a Specific Size Class](https://github.com/c4arl0s/17SizeClasses#1-modifying-traits-for-a-specific-size-class)
    - [x] [First, move all to a stack view]()
@@ -302,6 +362,10 @@ An app that lets the user draw by touching the screen
 11. [x] [11. For the More Curious: UIControl](https://github.com/c4arl0s/18TouchEventsAndUIResponder#11-for-the-more-curious-uicontrol)
 
 # [19. UIGesture Recognizer And UIMenuController](https://github.com/c4arl0s/19UIGestureRecognizerAndUIMenuController#19-uigesture-recognizer-and-uimenucontroller)
+
+| At a glance: Notes                                                                                                           |                                                                                                                              |                                                                                                                              |                                                                                                                              |
+|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/79251698-1c8c7900-7e46-11ea-8c23-d914a6a01db1.PNG" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/79261331-48fbc180-7e55-11ea-9e5c-12d90c09bac5.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/91628015-55eefc80-e981-11ea-91e5-2891a1475378.gif" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/91629046-f564bd00-e98a-11ea-9cfe-24fd1b7addf7.gif" width="250"> |
 
 ### [End of Touchtracker App](https://github.com/c4arl0s/19UIGestureRecognizerAndUIMenuController#9-silver-challenge-mysterious-lines)
 
@@ -354,6 +418,10 @@ Photorama App make a web service request to get interesting photos from Flickr.
 
 # [21 CollectionView for PhotoramaApp](https://github.com/c4arl0s/21CollectionView_PhotoramaApp#collectionview-for-photoramaapp)
 
+| At a glance: Notes                                                                                                           |                                                                                                                               |                                                                                                                               |                                                                                                                              |
+|------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/70814025-40548b00-1d90-11ea-89f0-c926b700e1fd.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/113943874-2d599b80-97c9-11eb-9dd2-fc4c1a6099ac.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/113944252-ddc79f80-97c9-11eb-8974-59ca9894ee0d.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/95501789-780b6f80-096e-11eb-8993-05afa678339e.gif" width="250"> |
+
 1. [x] [1. Displaying the Grid](https://github.com/c4arl0s/21CollectionView_PhotoramaApp#1-displaying-the-grid)
 2. [x] [2. Collection View Data Source](https://github.com/c4arl0s/21CollectionView_PhotoramaApp#2-collection-view-data-source)
 3. [x] [3. Customizing the Layout](https://github.com/c4arl0s/21CollectionView_PhotoramaApp#3-customizing-the-layout)
@@ -366,6 +434,10 @@ Photorama App make a web service request to get interesting photos from Flickr.
 10. [ ] [10. Golden Challenge: Creating a Custom Layout](https://github.com/c4arl0s/21CollectionView_PhotoramaApp#10-golden-challenge-creating-a-custom-layout)
 
 # [22 Core Data](https://github.com/c4arl0s/22CoreData#22-core-data)
+
+| At a glance: Notes                                                                                                           |                                                                                                                               |                                                                                                                               |                                                                                                                               |
+|------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://user-images.githubusercontent.com/24994818/96111494-dec8e580-0ea6-11eb-8ff6-28a653149dc4.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/104636206-9e753100-5668-11eb-9f7c-a1a1ed5a1aa6.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/113459922-3e269d80-93d4-11eb-8fa4-1d8c70e081a3.png" width="250"> | <img src="https://user-images.githubusercontent.com/24994818/114578733-c7469b80-9c42-11eb-89c3-cb264518f22d.gif" width="250"> |
 
 1. [x] [1. Object Graphs](https://github.com/c4arl0s/22CoreData#1-object-graphs)
 2. [x] [2. Entities](https://github.com/c4arl0s/22CoreData#2-entities)
